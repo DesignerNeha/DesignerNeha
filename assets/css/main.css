@@ -157,6 +157,18 @@ input, select, textarea {
 				font-size: 11pt;
 			}
 
+			
+		.col-12-mobile{
+			width: 100% !important;
+		}
+
+		.post.des{
+			flex-direction: column;
+			align-items: flex-start !important;
+			justify-content: flex-start !important;
+		}
+
+
 		}
 
 	a {
