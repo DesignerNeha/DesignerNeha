@@ -173,6 +173,14 @@ input, select, textarea {
 				align-items: flex-start !important;
 				justify-content: flex-start !important;
 			}
+
+			.actions{
+				flex-direction: column;
+			}
+
+			.actions li:last-child{
+				margin-top: 10px;
+			}
 		}
 
 	a {
